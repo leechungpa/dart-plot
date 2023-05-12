@@ -11,3 +11,7 @@
     - [매출액-당기순이익률](https://leechungpa.github.io/dart-plot/2%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%A7%A4%EC%B6%9C%EC%95%A1-%EB%8B%B9%EA%B8%B0%EC%88%9C%EC%9D%B4%EC%9D%B5%EB%A5%A0)
     - [자본총계-부채총계](https://leechungpa.github.io/dart-plot/2%EC%B0%A8%EC%A0%84%EC%A7%80/%EC%9E%90%EB%B3%B8%EC%B4%9D%EA%B3%84-%EB%B6%80%EC%B1%84%EC%B4%9D%EA%B3%84)
     - [자본총계-부채총계(log-log)](https://leechungpa.github.io/dart-plot/2%EC%B0%A8%EC%A0%84%EC%A7%80/%EC%9E%90%EB%B3%B8%EC%B4%9D%EA%B3%84-%EB%B6%80%EC%B1%84%EC%B4%9D%EA%B3%84(log-log))
+
+- 05/12
+    - [1. Scatter plot](https://leechungpa.github.io/dart-plot/0512/scatter)
+    - [1. Violin plot & Histogram](https://leechungpa.github.io/dart-plot/0512/violin)
