@@ -19,3 +19,4 @@
 
 - 05/23
     - [Ridgeline plot](https://leechungpa.github.io/dart-plot/0523/ridgeline)
+    - [Ridgeline plot with feedback](https://leechungpa.github.io/dart-plot/0523/ridgeline_feedback)
