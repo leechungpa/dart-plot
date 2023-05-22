@@ -13,5 +13,9 @@
     - [자본총계-부채총계(log-log)](https://leechungpa.github.io/dart-plot/2%EC%B0%A8%EC%A0%84%EC%A7%80/%EC%9E%90%EB%B3%B8%EC%B4%9D%EA%B3%84-%EB%B6%80%EC%B1%84%EC%B4%9D%EA%B3%84(log-log))
 
 - 05/12
-    - [1. Scatter plot](https://leechungpa.github.io/dart-plot/0512/scatter)
-    - [1. Violin plot & Histogram](https://leechungpa.github.io/dart-plot/0512/violin)
+    - [Scatter plot](https://leechungpa.github.io/dart-plot/0512/scatter)
+    - [Violin plot & Histogram](https://leechungpa.github.io/dart-plot/0512/violin)
+
+
+- 05/23
+    - [Ridgeline plot](https://leechungpa.github.io/dart-plot/0512/ridgeline)
